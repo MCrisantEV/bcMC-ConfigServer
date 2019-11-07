@@ -8,3 +8,5 @@ Configuración de las propiedades de los MS
 - MS Inscription: Port: 8903
 - MS Institute: Port: 8901
 - MS Person: Port: 8904
+- MS Evaluation Port: 8907
+- MS Report Port: 8908
